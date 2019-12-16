@@ -5,7 +5,7 @@ banner:
     - is_huge: true
       is_primary: false
       is_scrolly: false
-      label: Learn More
+      label: Vitae
       url: /no-sidebar
   subtitle: >-
     My work in dance, yoga, and bodywork explores the possibilities of
