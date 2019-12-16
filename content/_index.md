@@ -29,7 +29,7 @@ sections:
           schedule of open classes or here for private class rates.
         icon:
           enabled: true
-          icon: fa-heart-o
+          icon: fa-heart
           style: style1
         title: Yoga
       - description: I rock your world.
