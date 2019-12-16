@@ -17,11 +17,11 @@ sections:
   - component: features.html
     features:
       - description: >-
-          I choreograh and perform contemporary dance. My specialties include
-          Peppermint Twist.
+          I choreograph and perform contemporary dance. My specialties include
+          the Peppermint Twist.
         icon:
           enabled: true
-          icon: fa-heart
+          icon: fa-arrows
           style: style1
         title: Dance
       - description: >-
