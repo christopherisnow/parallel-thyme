@@ -25,25 +25,19 @@ sections:
           style: style1
         title: Dance
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          I teach Hatha-Vinyasa yoga in the reggaeton style. Click here for a
+          schedule of open classes or here for private class rates.
         icon:
           enabled: true
-          icon: fa-pie-chart
-          style: style2
-        title: Phasellus libero eu sed augue gravida
-      - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          icon: fa-heart-o
+          style: style1
+        title: Yoga
+      - description: I rock your world.
         icon:
           enabled: true
-          icon: fa-cube
+          icon: fa-music
           style: style3
-        title: Lacus ultricies sagittis mi dui dapibus
+        title: Sound Healing
     section_id: features
     type: features
   - actions:
