@@ -24,7 +24,7 @@ sections:
         icon:
           enabled: true
           icon: fa-area-chart
-          style: style2
+          style: style3
         title: Integer vitae consequat sed magna feugiat
       - description: >-
           Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
