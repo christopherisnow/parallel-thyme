@@ -23,8 +23,8 @@ sections:
           consectetur. Morbi libero orci, consectetur in odio maximus felis.
         icon:
           enabled: true
-          icon: fa-area-chart
-          style: style3
+          icon: fa-heart
+          style: style1
         title: Integer vitae consequat sed magna feugiat
       - description: >-
           Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
