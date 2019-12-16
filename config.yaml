@@ -2,7 +2,7 @@ title: Jadi C.
 baseURL: /
 params:
   landing_template: home
-  palette: green
+  palette: blue
   palettes:
     blue:
       sass:
