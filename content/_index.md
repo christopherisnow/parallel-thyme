@@ -17,15 +17,13 @@ sections:
   - component: features.html
     features:
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          I choreograh and perform contemporary dance. My specialties include
+          Peppermint Twist.
         icon:
           enabled: true
           icon: fa-heart
           style: style1
-        title: Integer vitae consequat sed magna feugiat
+        title: Dance
       - description: >-
           Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
