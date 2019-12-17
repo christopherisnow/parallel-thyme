@@ -1,6 +1,6 @@
 about:
   actions: []
-  enabled: true
+  enabled: false
   text: ''
   title: Contact
 contact_methods:
