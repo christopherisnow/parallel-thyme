@@ -8,22 +8,19 @@ banner:
       label: Vitae
       url: /no-sidebar
   subtitle: >-
-    My work in dance, yoga, and bodywork explores the possibilities of
-    expression, of animate and inanimate bodies. The breath and the bones, the
-    pure geometric forms, the resonances and the dynamics of human relationships
-    and persona.
+    My dedication and interest focus on the possibilities of expression, of
+    animate and inanimate bodies. The breath and the bones, the pure geometric
+    forms, the resonances and the dynamics of human relationships and persona.
   title: Jadi Carboni
 sections:
   - component: features.html
     features:
-      - description: >-
-          I choreograph and perform contemporary dance. My specialties include
-          the Peppermint Twist.
+      - description: ''
         icon:
           enabled: true
           icon: fa-arrows
           style: style1
-        title: Dance
+        title: Choreographer and Performer
       - description: >-
           I teach Hatha-Vinyasa yoga in the reggaeton style. Click here for a
           schedule of open classes or here for private class rates.
