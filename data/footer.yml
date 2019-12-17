@@ -1,9 +1,5 @@
 about:
-  actions:
-    - is_primary: false
-      is_scrolly: false
-      label: Learn More
-      url: /no-sidebar
+  actions: []
   enabled: true
   text: ''
   title: Contact
