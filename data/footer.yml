@@ -1,35 +1,25 @@
 about:
-  enabled: true
-  title: Integer vitae sed feugiat
-  text: >-
-    Lorem ipsum dolor sit amet interdum mollis sapien. Sed amet ac lorem ipsum
-    interdum tempus sagittis lorem tempus.
   actions:
-    - label: Learn More
-      url: /no-sidebar
-      is_primary: false
+    - is_primary: false
       is_scrolly: false
+      label: Learn More
+      url: /no-sidebar
+  enabled: true
+  text: ''
+  title: Contact
 contact_methods:
   enabled: true
   methods_col1:
-    - type: contact_with_text
+    - icon: fa-map-marker
+      text: 'Berlin, Germany'
       title: Address
-      icon: fa-map-marker
-      text: |-
-        Untitled Corp  
-        1234 Fictional Road  
-        Suite 5432  
-        Nashville, TN 00000
+      type: contact_with_text
   methods_col2:
-    - type: contact_with_text
-      title: Phone
-      icon: fa-phone
-      text: (000) 000-0000
-    - type: contact_with_link
+    - icon: fa-envelope-o
+      text: jadicarboni81@gmail.com
       title: Email
-      icon: fa-envelope-o
-      text: information@untitled.tld
-      url: '#'
+      type: contact_with_link
+      url: ''
 copyright:
   enabled: true
-  text: '&copy; Untitled. All rights reserved.'
+  text: '&copy; Jadi Carboni. All rights reserved.'
