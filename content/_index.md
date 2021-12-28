@@ -6,7 +6,7 @@ banner:
     is_primary: false
     is_scrolly: false
     label: Vitae
-    url: "/no-sidebar"
+    url: "/about"
   subtitle: My dedication and interest focus on the possibilities of expression, of
     animate and inanimate bodies. The breath and the bones, the pure geometric forms,
     the resonances and the dynamics of human relationships and persona.
