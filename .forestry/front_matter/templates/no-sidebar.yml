@@ -1,0 +1,36 @@
+---
+label: No Sidebar
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: field_group
+  name: content_img
+  label: content_img
+  fields:
+  - type: boolean
+    name: enabled
+    label: enabled
+  - type: file
+    name: path
+    label: path
+  - type: text
+    name: url
+    label: url
+- type: field_group
+  name: sidebar
+  label: sidebar
+  fields:
+  - type: boolean
+    name: enabled
+    label: enabled
+  - type: text
+    name: side
+    label: side
+- type: text
+  name: layout
+  label: layout
