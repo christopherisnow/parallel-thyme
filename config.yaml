@@ -1,75 +1,76 @@
+---
 title: Jadi C.
-baseURL: /
+baseURL: "/"
 params:
   landing_template: home
   palette: blue
   palettes:
     blue:
       sass:
-        accent1: '#5f9dd2'
-        accent2: '#758ce1'
-        accent3: '#e286a9'
-        gradient1: '#27a1e3'
-        gradient2: '#e7232a'
+        accent1: "#5f9dd2"
+        accent2: "#758ce1"
+        accent3: "#e286a9"
+        gradient1: "#27a1e3"
+        gradient2: "#e7232a"
     green:
       sass:
-        accent1: '#54d3cf'
-        accent2: '#4f92d1'
-        accent3: '#8075e5'
-        gradient1: '#16f4cf'
-        gradient2: '#6532e5'
+        accent1: "#54d3cf"
+        accent2: "#4f92d1"
+        accent3: "#8075e5"
+        gradient1: "#16f4cf"
+        gradient2: "#6532e5"
 menu:
-  footer:
-    - identifier: normal8
-      name: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      weight: 4
   main:
-    - identifier: layouts
-      name: Booo
-      url: '#'
-      weight: 2
-    - identifier: normal1
-      name: Left Sidebar
-      parent: layouts
-      url: /left-sidebar
-      weight: 1
-    - identifier: normal2
-      name: Right Sidebar
-      parent: layouts
-      url: /right-sidebar
-      weight: 2
-    - identifier: normal3
-      name: No Sidebar
-      parent: layouts
-      url: /no-sidebar
-      weight: 3
-    - identifier: submenu
-      name: Submenu
-      parent: layouts
-      url: '#'
-      weight: 4
-    - identifier: normal4
-      name: Option One
-      parent: submenu
-      url: '#'
-      weight: 1
-    - identifier: normal5
-      name: Option Two
-      parent: submenu
-      url: '#'
-      weight: 2
-    - identifier: normal6
-      name: Option Three
-      parent: submenu
-      url: '#'
-      weight: 3
-    - identifier: normal7
-      name: Option Four
-      parent: submenu
-      url: '#'
-      weight: 4
+  - url: "#"
+    name: Submenu
+    parent: layouts
+    weight: 11
+    identifier: submenu
+  - url: "/no-sidebar"
+    name: No Sidebar
+    parent: layouts
+    weight: 9
+    identifier: normal3
+  - url: "#"
+    name: Booo
+    weight: 6
+    identifier: layouts
+  - url: "/right-sidebar"
+    name: Right Sidebar
+    parent: layouts
+    weight: 5
+    identifier: normal2
+  - url: "#"
+    name: Option Two
+    parent: submenu
+    weight: 4
+    identifier: normal5
+  - url: "/left-sidebar"
+    name: Left Sidebar
+    parent: layouts
+    weight: 3
+    identifier: normal1
+  - url: "#"
+    name: Option Four
+    parent: submenu
+    weight: 10
+    identifier: normal7
+  - url: "#"
+    name: Option Three
+    parent: submenu
+    weight: 8
+    identifier: normal6
+  - url: "#"
+    name: Option One
+    parent: submenu
+    weight: 2
+    identifier: normal4
+  footer:
+  - url: https://www.stackbit.com
+    name: Made with Stackbit
+    weight: 3
+    identifier: normal8
 disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+- RSS
+- taxonomy
+- taxonomyTerm

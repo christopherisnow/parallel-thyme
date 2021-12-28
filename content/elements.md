@@ -5,7 +5,7 @@ subtitle: Here you can find a list of my regular classes in Graz as well as occa
 layout: ''
 menu:
   main:
-    weight: 3
+    weight: 7
 
 ---
 | Day | Time | Place | Class name |
