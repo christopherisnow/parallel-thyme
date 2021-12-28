@@ -1,9 +1,15 @@
 ---
-title: Elements
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+title: Class schedule
+subtitle: Here you can find a list of my regular classes in Graz as well as occasional
+  workshop. For more details, click on individual links!
+layout: ''
 menu:
   main:
-    name: Elements
     weight: 3
-layout: elements
+
 ---
+| Day | Time | Place | Class name |
+
+|:----|:-----|:------|:-----------|
+
+| Tues. | 10:00-11:30| TanzHaus | Principles in Motion |
