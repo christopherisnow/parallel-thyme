@@ -9,7 +9,7 @@ about:
     Tues.
   title: Contact
 contact_methods:
-  enabled: true
+  enabled: false
   methods_col1:
     - icon: fa-map-marker
       text: Berlin, Germany
