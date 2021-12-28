@@ -1,6 +1,6 @@
 about:
   actions: []
-  enabled: false
+  enabled: true
   text: |-
     # Class schedule
 
