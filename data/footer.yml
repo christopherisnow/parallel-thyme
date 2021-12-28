@@ -1,13 +1,18 @@
 about:
   actions: []
   enabled: false
-  text: ''
+  text: |-
+    # Class schedule
+
+    Mon.
+
+    Tues.
   title: Contact
 contact_methods:
   enabled: true
   methods_col1:
     - icon: fa-map-marker
-      text: 'Berlin, Germany'
+      text: Berlin, Germany
       title: Address
       type: contact_with_text
   methods_col2:
@@ -15,7 +20,7 @@ contact_methods:
       text: jadicarboni81@gmail.com
       title: Email
       type: contact_with_link
-      url: ''
+      url: ""
 copyright:
   enabled: true
-  text: '&copy; Jadi Carboni. All rights reserved.'
+  text: "&copy; Jadi Carboni. All rights reserved."
